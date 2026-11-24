@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jayson Mendoza - Page 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="logo-area">
+      <img src="images/logo.png" alt="Logo" class="logo">
+      <div class="logo-line"></div>
+    </div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Products</a>
+      <a href="#">Cart</a>
+    </nav>
+    <div class="wrench">🔧</div>
+  </header>
+
+  <!-- SEARCH -->
+  <div class="search-bar">
+    <span class="search-icon">🔍</span>
+    <input type="text" placeholder="">
+  </div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <img src="images/hero-engine.jpg" alt="Engine repair">
+    <p><b>Buy, explore,<br>and build!</b></p>
+  </section>
+
+  <!-- ABOUT -->
+  <section class="about">
+    <img src="images/mechanic.png" alt="Mechanic">
+    <p><b>A website that can sell second hand, and brand new products of car and bicycle industry, design to find parts easy.<br><br>
+    Also you can call a mechanic to this website for rescue when its emergency.</b></p>
+  </section>
+
+  <!-- CATEGORIES -->
+  <section class="categories">
+    <div class="card">
+      <img src="images/whole-engine.jpg" alt="Whole engine">
+      <p><b>Whole engine, old and new</b></p>
+    </div>
+    <div class="card">
+      <img src="images/bicycle-group.jpg" alt="Bicycle group sets">
+      <p><b>Bicycle group sets, and none group sets</b></p>
+    </div>
+    <div class="card">
+      <img src="images/chop-engine.jpg" alt="Chop engine parts">
+      <p><b>Chop engine parts</b></p>
+    </div>
+    <div class="card">
+      <img src="images/small-parts.jpg" alt="Small parts">
+      <p><b>Small parts</b></p>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="contact">
+    <button>Contact us</button>
+    <p class="or">Or</p>
+    <p><b>Message us on</b></p>
+    <div class="socials">
+      <a href="#"><img src="images/telegram.png" alt="Telegram"></a>
+      <a href="#"><img src="images/instagram.png" alt="Instagram"></a>
+      <a href="#"><img src="images/gmail.png" alt="Gmail"></a>
+      <a href="#"><img src="images/laz.png" alt="Lazada"></a>
+    </div>
+  </section>
+
+</body>
+</html>
